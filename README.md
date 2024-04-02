@@ -11,6 +11,6 @@
 |     6| Java      |
 
 ![Image of gas station in Japan](images/dope.jpg)
-**Cool image of***Tokyo***I fonud on TimeGuesser**
+**Cool image of*** Tokyo ***I fonud on TimeGuesser**
 
 [TimeGuesser](https://timeguessr.com/)
