@@ -10,7 +10,7 @@
 |     5| SQL       |
 |     6| Java      |
 
-![Image of gas station in Japan](images/tokyo.jpg)
+![Image of gas station in Japan](images/dope.jpg)
 **Cool image of***Tokyo***I fonud on TimeGuesser**
 
-![TimeGuesser](https://timeguessr.com/)
+[TimeGuesser](https://timeguessr.com/)
